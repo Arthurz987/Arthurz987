@@ -1,4 +1,4 @@
-# Olá! Veja bem-vindo ao meu GitHub! 👋
+# Olá! Seja bem-vindo ao meu GitHub! 👋
 
 🎓 Sou estudante da área de tecnologia e estou desenvolvendo minhas habilidades em programação e desenvolvimento de software.
 
@@ -6,26 +6,39 @@
 
 🚀 Meu objetivo é evoluir na área de desenvolvimento Backend, aprendendo novas tecnologias e criando projetos práticos.
 
+---
+
 ## 🛠️ Tecnologias e ferramentas
 
-- Linguagem C
-- MySQL
-- SQL
-- Git e GitHub
+- ** Linguagens: C, JavaScript
+- ** Front-end: HTML5, CSS
+- ** Banco de dados: MySQL, SQL
+- ** Ferramentas: Git e GitHub
+
+---
 
 ## 📚 Atualmente estudando
 
-- Lógica de programação
 - Estruturas de dados
 - Banco de dados
 - Desenvolvimento Backend
 
+---
+
 ## 🎯 Objetivos
 
-- Desenvolvedor projetos práticos.
-- Melhor minhas habilidades de programação.
-- Aprender novas línguas e tecnologias.
-- Construir meu portfólio profissional.
+- Desenvolver projetos práticos
+- Melhorar minhas habilidades de programação
+- Aprender novas linguagens e tecnologias
+- Construir meu portfólio profissional
+
+---
+
+## 🌎 About me (English)
+
+I'm a technology student focused on becoming a Backend Developer. I'm currently studying programming logic, C, data structures and databases (MySQL/SQL), and building practical projects to grow my portfolio.
+
+---
 
 ## 📫 Contato
 
